@@ -14,6 +14,12 @@ A working Front-End  web application made using [React](https://reactjs.org/).
 7. Contact Component
 8. Dish Detail Component
 
+## States and Props Used
+1.dishes.js
+2.leaders.js
+3.promotions.js
+4.comments.js
+
 ### Commit 1:
  
  Contains following skills:
