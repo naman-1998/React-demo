@@ -21,7 +21,5 @@ A working Front-End  web application made using [React](https://reactjs.org/).
  
  
  ### Commit 2:
- 
- #### Contact Component:
- 
- - React-Redux-Forms.
+ - Skills used in Commit 1 
+ - React-Redux-Forms in ***Contact Component***
