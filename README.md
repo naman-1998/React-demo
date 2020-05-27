@@ -4,6 +4,16 @@
 
 A working Front-End  web application made using [React](https://reactjs.org/).
 
+## Components Used:
+1. Main Component
+2. Home Component
+3. Header Component
+4. Footer Component
+5. Menu Component
+6 About Component
+7. Contact Component
+8. Dish Detail Component
+
 ### Commit 1:
  
  Contains following skills:
