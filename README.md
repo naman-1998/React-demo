@@ -21,7 +21,7 @@ A working Front-End  web application made using [React](https://reactjs.org/).
  - ReactStrap
  - States, Props
  - Component Cycle
- - Components Used:  ***Class Component***, ***Function Component***
+ - Components Type:  ***Class Component***, ***Function Component***
  - React Routing
  - Single Page Applications Working
  - Form Validation
