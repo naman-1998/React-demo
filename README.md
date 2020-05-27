@@ -15,10 +15,10 @@ A working Front-End  web application made using [React](https://reactjs.org/).
 8. Dish Detail Component
 
 ## States and Props Used
-1.dishes.js
-2.leaders.js
-3.promotions.js
-4.comments.js
+1. dishes.js
+2. leaders.js
+3. promotions.js
+4. comments.js
 
 ### Commit 1:
  
