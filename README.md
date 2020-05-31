@@ -39,3 +39,11 @@ A working Front-End  web application made using [React](https://reactjs.org/).
  ### Commit 2:
  - Skills used in Commit 1 
  - React-Redux-Forms in ***Contact Component***
+ 
+ ### Commit 3:
+ - React-Redux-Forms validations in ***Contact Component***
+ 
+ ### Commit 4:
+ ***Assignment 3***
+ - Added **Comments** Modal in ***DishDetailComponent***
+ - React-Redux-Form Validation in Modal Form
