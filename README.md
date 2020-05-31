@@ -44,5 +44,6 @@ A working Front-End  web application made using [React](https://reactjs.org/).
  - React-Redux-Forms validations in ***Contact Component***
  
  ### Commit 4:
+ ***Assignment 3***
  - Added **Comments** Modal in ***DishDetailComponent***
  - React-Redux-Form Validation in Modal Form
