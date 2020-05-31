@@ -51,3 +51,6 @@ A working Front-End  web application made using [React](https://reactjs.org/).
 ### Commit 5
  - Splitting and Combining Reducer Functions
 
+### Commit 6
+ - Implementing Redux Actions in ***DishDetailComponent*** by adding    **Comments**
+
