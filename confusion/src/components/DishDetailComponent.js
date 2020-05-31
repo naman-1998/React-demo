@@ -156,7 +156,8 @@ const DishDetail= (props) =>{
                                     <Row  className="form-group">
                                         <Label for="rating" md={12}>Rating</Label>
                                         <Col  md={12}>
-                                            <Control.select defaultValue="5" model=".rating" id="rating" name="rating" className="form-control" >
+                                            <Control.select defaultValue="5" model=".rating" id="rating"
+                                             name="rating" className="form-control" >
                                                 <option value="1">1</option>
                                                 <option value="2">2</option>
                                                 <option value="3">3</option>
