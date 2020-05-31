@@ -48,4 +48,6 @@ A working Front-End  web application made using [React](https://reactjs.org/).
  - Added **Comments** Modal in ***DishDetailComponent***
  - React-Redux-Form Validation in Modal Form
 
-naman
+### Commit 5
+ - Splitting and Combining Reducer Functions
+
