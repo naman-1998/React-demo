@@ -54,3 +54,7 @@ A working Front-End  web application made using [React](https://reactjs.org/).
 ### Commit 6
  - Implementing Redux Actions in ***DishDetailComponent*** by adding    **Comments**
 
+### Commit 7
+ - Adding [Redux Thunk](https://github.com/reduxjs/redux-thunk) in the Components.
+ - Added ***Loading Component***
+
