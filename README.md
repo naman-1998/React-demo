@@ -61,3 +61,6 @@ A working Front-End  web application made using [React](https://reactjs.org/).
 ### Commit 8
  - Added json-server
  - Used [Fetch](https://javascript.info/fetch) for server.
+
+### Commit 9
+ - Added Response error messages from server.
