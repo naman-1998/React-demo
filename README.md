@@ -58,3 +58,6 @@ A working Front-End  web application made using [React](https://reactjs.org/).
  - Adding [Redux Thunk](https://github.com/reduxjs/redux-thunk) in the Components.
  - Added ***Loading Component***
 
+### Commit 8
+ - Added json-server
+ - Used [Fetch](https://javascript.info/fetch) for server.
