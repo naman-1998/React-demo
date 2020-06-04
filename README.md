@@ -4,6 +4,16 @@
 
 A working Front-End  web application made using [React](https://reactjs.org/).
 
+### This Project is based on following keypoints:
+ - An introduction to the use of Reactstrap for Bootstrap 4-based responsive UI design. 
+ - Introduction to various aspects of React components.
+ - React router and its use in developing single-page applications. 
+ - Designing controlled forms. 
+ - Introduction to the Flux architecture and Redux.
+ - Various aspects of Redux and use it to develop React-Redux powered applications.
+ - Use of Fetch for client-server communication and the use of REST API on the server side. 
+ - A quick tour through React animation support and testing rounds off the course.
+
 ## Components Used:
 1. Main Component
 2. Home Component
@@ -68,3 +78,4 @@ A working Front-End  web application made using [React](https://reactjs.org/).
 ### Commit 10
  - Added [React-Transistion-Group](https://github.com/reactjs/react-transition-group) in ***Main Component*** & ***App.css***
  - Added [Reat-Animation-Component](https://github.com/chrisjcodes/react-animation-components) in ***Home Component*** & ***DishDetail Component***
+ - Assignment 4
