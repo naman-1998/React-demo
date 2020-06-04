@@ -263,6 +263,16 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
+    },
+    {
+      "firstname": "Naman",
+      "lastname": "Panchal",
+      "telnum": "283787493",
+      "email": "nmanpanchal08@gmail.com",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "good good good",
+      "id": 2
     }
   ]
 }
