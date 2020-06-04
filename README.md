@@ -64,3 +64,7 @@ A working Front-End  web application made using [React](https://reactjs.org/).
 
 ### Commit 9
  - Added Response error messages from server.
+
+### Commit 10
+ - Added [React-Transistion-Group](https://github.com/reactjs/react-transition-group) in ***Main Component*** & ***App.css***
+ - Added [Reat-Animation-Component](https://github.com/chrisjcodes/react-animation-components) in ***Home Component*** & ***DishDetail Component***
